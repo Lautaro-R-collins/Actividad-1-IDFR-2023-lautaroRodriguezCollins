@@ -74,7 +74,7 @@ main {
     transition-delay: 0.2s;
 }
 
-/*headings and paragraphs*/
+/*estilos de fuentes*/
 
 h1 {
     color: var(--tertiary);
@@ -104,7 +104,7 @@ span {
     color:var(--trim-color)
 }
 
-/* welcome page*/
+/* pagina de inicio*/
 
 
 #home {
@@ -155,7 +155,7 @@ span {
     transition-delay: 0.2s;
 }
 
-/*About section*/
+/*habilidades*/
 
 #skills {
     margin: 0 auto;
@@ -212,7 +212,7 @@ span {
   text-align: right;
 }
 
-/*formulario de contacto*/
+/*contacto*/
 
 #contactame {
     display: flex;
