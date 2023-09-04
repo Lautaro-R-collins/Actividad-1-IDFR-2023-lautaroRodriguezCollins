@@ -39,25 +39,23 @@ main {
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 2;
+    z-index: 2; 
 }
 
 .logo {
-    text-decoration: none;
     color: var(--tertiary);
     padding: 5px 20px;
     font-size: 2em;
     font-weight: bold;
-    margin-left: 125px;
-    
+    margin-left: 105px;   
 }
 
 .menu { 
     display: flex;
     justify-content: space-between;
     list-style: none;
-    margin-right: 120px;
-
+    margin-right: 100px;
+    
 }
 
 .menu li a {
